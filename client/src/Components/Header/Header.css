@@ -1,0 +1,19 @@
+.navbar {
+  background-color: rgb(248, 161, 174);
+  height: 65px;
+  color: rgb(207, 79, 79);
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Neucha", cursive;
+}
+#heading {
+  color: rgb(207, 79, 79);
+  font-size: 25px;
+}
+#heading1 {
+  color: rgb(207, 79, 79);
+}
+#navdropdown-title {
+  font-size: 20px;
+  font-weight: 600;
+}

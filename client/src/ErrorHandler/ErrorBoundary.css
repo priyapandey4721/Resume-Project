@@ -1,0 +1,36 @@
+.error-message {
+  text-align: center;
+  color: red;
+  margin: 0px auto;
+  margin-top: 20%;
+  margin-bottom: 16%;
+}
+.alert {
+  margin: 0px auto;
+  width: 50%;
+  height: 20%px;
+  font-weight: bold;
+  font-size: 40px;
+}
+.button {
+  background-color: white;
+  margin: 0 auto;
+  width: 150px;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  outline: none;
+  border-radius: 20px;
+  border: 2px solid red;
+  transition: 0.4s;
+}
+.button:hover {
+  background-color: red;
+  color: white;
+}
+@media screen and (max-width: 450px) {
+  .alert {
+    font-size: 20px;
+  }
+}
